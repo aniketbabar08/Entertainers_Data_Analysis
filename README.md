@@ -1,13 +1,5 @@
 # Entertainers Data Analysis - iNeuron Internship
 
-[PowerBi Report Link](https://www.novypro.com/project/entertainers-data-analysis)
-
-## Project overview 👀
-
-I have done this project as part of the iNeuron Internship. If you are looking for some remote internship opportunity you can check out [iNeuron Internship portal](https://internship.ineuron.ai/), 
-where you can find internship for different technologies in different domains.
-
-
 ## Objective 🎯
 
 Analyzing details about the entertainers by populating data and creating a dashboard in PowerBi
